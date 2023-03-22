@@ -1,0 +1,56 @@
+body{
+  background-color: #FFFBE9;
+
+}
+h1{
+  color: #6B4F4F;
+}
+a:hover {
+  color: gold;
+
+}
+.popup{
+  background-color:#F8EDE3;
+  color: #483434;
+  left: 95%;
+  padding: 10px 20px;
+  position: fixed;
+
+}
+.popup:hover{
+  background-color: #815B5B;
+}
+.contact{
+  background-color:#E3B7A0;
+  color:#483434;
+  margin-left: 900px;
+  padding:14px 25px;
+  text-align:right;
+  text-decoration:none;
+  display:inline-block;
+
+}
+.contact:hover{
+  background-color: #815B5B;
+}
+.register{
+  background-color:#E3B7A0;
+  color:#483434;
+  padding: 14px 25px;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+}
+.register:hover{
+  background-color: #815B5B;
+}
+.form{
+  background-color: #E3B7A0;
+  position: absolute;
+  left: 35%;
+  top: 5%;
+  border: 10px;
+  border-style: solid;
+    border-color: white;
+    padding:20px;
+}
